@@ -1,0 +1,5 @@
+*.env*
+venv/
+__pycharm__
+temp.py
+.idea/
